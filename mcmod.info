@@ -1,0 +1,17 @@
+[
+{
+  "modid" : "Wirebox",
+  "name" : "Wirebox",
+  "version" : "0.0.1",
+  "url" : "http://www.computercraft.info",
+  "credits" : "",
+  "authors": [
+    "Lyqyd"
+  ],
+  "description": "",
+  "logoFile" : "",
+  "updateUrl" : "",
+  "parent" : "",
+  "screenshots": [
+  ]
+}]
